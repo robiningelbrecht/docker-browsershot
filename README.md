@@ -1,7 +1,7 @@
 <h1 align="center">Docker container for Spatie's Browsershot</h1>
 
 <p align="center">
-	<img src="https://github.com/robiningelbrecht/docker-browsershot/raw/master/readme/docker.webp" alt="Docker" height="220">
+	<img src="https://github.com/robiningelbrecht/docker-browsershot/raw/master/readme/docker.webp" alt="Docker">
 </p>
 
 <p align="center">
