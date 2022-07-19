@@ -18,6 +18,5 @@ A docker container that allows you to use the [Spatie\Browsershot](https://githu
 * Run `docker-compose up -d --build` to spin up and build the required container
 * Run `docker-compose run --rm php-cli composer install` to install PHP dependencies
 * Run `docker-compose run --rm php-cli npm install` to install Node dependencies
-
-Run the example by executing `docker-compose run --rm php-cli php example.php`
+* Run the example by executing `docker-compose run --rm php-cli php example.php`
 
