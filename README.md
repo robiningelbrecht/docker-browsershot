@@ -10,7 +10,7 @@
 
 ------
 
-A docker container that allows you to use the [Spatie\Browsershot](https://github.com/spatie/browsershot) package. Currently it requires ^PHP8.1, feel free to fork and change. consider giving it a ⭐ when you do.
+A docker container that allows you to use the [Spatie\Browsershot](https://github.com/spatie/browsershot) package. Currently it requires `^php8.1`, feel free to fork and change. Consider giving it a ⭐ when you do.
 
 ## Installation & usage
 
