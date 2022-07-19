@@ -3,7 +3,7 @@ version: '1.0'
 services:
   php-cli:
     build: ./docker/php-cli
-    container_name: puphpeteer-php-cli
+    container_name: browsershot-php-cli
     volumes:
       - ~/.ssh:/var/www/.ssh
       - ./:/var/www/app:cached
